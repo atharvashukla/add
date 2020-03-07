@@ -1,6 +1,6 @@
 # Python
 
-[`try on repl.it`](https://repl.it/@atharvashukla/PythonAdd)
+[try](https://repl.it/@atharvashukla/PythonAdd)
 
 ```
 def add(a, b):
