@@ -37,3 +37,20 @@ int main() {
   return 0;
 }
 ```
+
+# Java 
+
+[try on `repl.it`](https://repl.it/@atharvashukla/JavaAdd)
+
+```
+class Main {
+
+  static int add(int a, int b) {
+    return a + b;
+  }
+
+  public static void main(String[] args) {
+    System.out.println(add(3, 4));
+  }
+}
+```
